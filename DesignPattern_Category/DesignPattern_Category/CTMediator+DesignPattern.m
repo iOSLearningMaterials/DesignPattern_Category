@@ -7,6 +7,12 @@
 
 #import "CTMediator+DesignPattern.h"
 
+NSString *const DesignPattern = @"DesignPattern";
+
 @implementation CTMediator (DesignPattern)
+
+- (UIViewController *)DesignPattern_ViewController:(NSDictionary *)params {
+    return [self performTarget:DesignPattern action:@"viewController" params:params shouldCacheTarget:NO];
+}
 
 @end

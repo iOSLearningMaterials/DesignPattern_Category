@@ -20,7 +20,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "DesignPattern_Category"
-  s.version      = "1"
+  s.version      = "1.0.1"
   s.swift_version = '5.1'
   s.summary      = "DesignPattern_Category."
 

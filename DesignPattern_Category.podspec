@@ -20,7 +20,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "DesignPattern_Category"
-  s.version      = "1"
+  s.version      = "1.0.0"
   s.swift_version = '5.1'
   s.summary      = "DesignPattern_Category."
 
@@ -58,10 +58,10 @@ Pod::Spec.new do |s|
   #  profile URL.
   #
 
-  s.author             = { "CasaTaloyum" => "casatwy@msn.com" }
-  # Or just: s.author    = "CasaTaloyum"
-  # s.authors            = { "CasaTaloyum" => "casatwy@msn.com" }
-  # s.social_media_url   = "http://twitter.com/CasaTaloyum"
+  s.author             = { "aTreey" => "480814177@qq.com" }
+  # Or just: s.author    = "aTreey"
+  # s.authors            = { "aTreey" => "480814177@qq.com" }
+  # s.social_media_url   = "https://github.com/aTreey"
 
   # ――― Platform Specifics ――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
   #
